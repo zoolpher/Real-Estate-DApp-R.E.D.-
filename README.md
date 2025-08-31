@@ -1,4 +1,4 @@
-** 🏠 Real Estate DApp**
+###** 🏠 Real Estate DApp**
 
 The Real Estate DApp is a decentralized platform that enables tokenization and trading of real-world properties on the blockchain. It combines ERC1155 (multi-token standard) for fractional ownership and ERC721 (NFT standard) for unique ownership, providing flexibility in how properties are represented and transferred.
 
