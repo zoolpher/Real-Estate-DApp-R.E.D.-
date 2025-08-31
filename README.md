@@ -46,5 +46,5 @@ It will start the frontend.
 
 
 ## Supported by Team members:
-- [https://github.com/garok17]https://github.com/garok17
-- [https://github.com/Kisan062]https://github.com/Kisan062
+- https://github.com/garok17
+- https://github.com/Kisan062
